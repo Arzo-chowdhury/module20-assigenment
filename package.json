@@ -1,0 +1,32 @@
+{
+  "name": "module20-assigenment",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000m\u0000o\u0000d\u0000u\u0000l\u0000e\u00002\u00000\u0000-\u0000a\u0000s\u0000s\u0000i\u0000g\u0000e\u0000n\u0000m\u0000e\u0000n\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arzo-chowdhury/module20-assigenment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Arzo-chowdhury/module20-assigenment/issues"
+  },
+  "homepage": "https://github.com/Arzo-chowdhury/module20-assigenment#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.15.2"
+  }
+}
